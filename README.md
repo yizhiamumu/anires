@@ -2,7 +2,7 @@
 
 [预览](https://yizhiamumu.github.io/anires/public/)
 
-### 使用方法
+### 使用
 
 1. 安装Node.js环境：https://nodejs.org/
 
@@ -17,7 +17,7 @@ npm install
 npm run dev
 ```
 
-### 部署方法
+### 部署
 
 1. 编辑 config/index.js，修改第 10 行的 assetsPublicPath，值为 `项目名/public`。如果你没有修改项目名 anires，则可跳过此步骤。
 
