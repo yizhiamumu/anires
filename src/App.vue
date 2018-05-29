@@ -29,7 +29,7 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 源码地址 https://github.com/yizhiamumu/anires
+* 源码地址 https://github.com/yizhiamumu/anires01
 * 大家好，我是一只阿木木。
 * 一名喜欢吃的程序员！
 * 

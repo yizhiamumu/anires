@@ -1,4 +1,7 @@
 # 一只阿木木
+
+[预览](https://yizhiamumu.github.io/anires01/public/)
+
 ### 使用方法
 
 1. 安装Node.js环境：https://nodejs.org/
@@ -8,7 +11,7 @@
 3. 执行以下命令：
 
 ``` bash
-git clone https://github.com/yizhiamumu/anires.git
+git clone https://github.com/yizhiamumu/anires01.git
 cd anires
 npm install
 npm run dev
