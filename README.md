@@ -1,6 +1,6 @@
 # 一只阿木木
 
-[预览](https://yizhiamumu.github.io/anires01/public/)
+[预览](https://yizhiamumu.github.io/anires/public/)
 
 ### 使用方法
 
@@ -11,7 +11,7 @@
 3. 执行以下命令：
 
 ``` bash
-git clone https://github.com/yizhiamumu/anires01.git
+git clone https://github.com/yizhiamumu/anires.git
 cd anires
 npm install
 npm run dev
